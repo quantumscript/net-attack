@@ -1,4 +1,4 @@
-# Network Attack
+# Network Credential Probe
 
 Automated credential stuffing attack and script propagation on a network using Python Scapy library. Mimics Mirai botnet.
   
